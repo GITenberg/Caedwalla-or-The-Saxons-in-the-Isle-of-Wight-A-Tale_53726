@@ -1,0 +1,32 @@
+_repo: Caedwalla-or-The-Saxons-in-the-Isle-of-Wight-A-Tale_53726
+_version: 0.0.1
+alternative_title: 'Caedwalla; or, The Saxons in the Isle of Wight: A Tale'
+creator:
+  author:
+    agent_name: Cowper, Frank Cadogan
+    alias: Cadogan Cowper, Frank
+    birthdate: 1877
+    deathdate: 1958
+    gutenberg_agent_id: '47502'
+    url: http://www.gutenberg.org/2009/agents/47502
+description: Illustrated by the author.
+gutenberg_issued: '2016-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conversion -- Christianity -- Juvenile fiction'
+- !lcsh 'Isle of Wight (England) -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Honor -- Juvenile fiction'
+- !lcsh 'Saxons -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- GITenberg
+title: 'Cædwalla; or, The Saxons in the Isle of Wight: A Tale'
+url: http://www.gutenberg.org/ebooks/53726
