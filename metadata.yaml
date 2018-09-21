@@ -1,6 +1,9 @@
 _repo: Caedwalla-or-The-Saxons-in-the-Isle-of-Wight-A-Tale_53726
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'Caedwalla; or, The Saxons in the Isle of Wight: A Tale'
+covers:
+- cover_type: archival
+  image_path: 53726-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Cowper, Frank Cadogan
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '47502'
     url: http://www.gutenberg.org/2009/agents/47502
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53726#Caedwalla-or-The-Saxons-in-the-Isle-of-Wight-A-Tale
 gutenberg_issued: '2016-12-12'
 gutenberg_type: Text
 identifiers:
